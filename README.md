@@ -1,10 +1,3 @@
-### Hi there 👋
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=ViniciusLucasM&color=5E33FF&style=plastic" alt="Vinicius"/>
-</p>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusLucasM&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
 <!--
 **ViniciusLucasM/ViniciusLucasM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
