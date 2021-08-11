@@ -28,6 +28,4 @@
   <a href="https://www.linkedin.com/in/vinicius-lucas-mesquita-021a1b1a4/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://open.spotify.com/user/8ul9mznrxdqt2pdrq2j4ow67e?si=76b0adca3f71403e&nd=1" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a>
  
- ![Snake animation](https://github.com/ViniciusLucasM/ViniciusLucasM/blob/output/github-contribution-grid-snake.svg)
- 
 </div>
