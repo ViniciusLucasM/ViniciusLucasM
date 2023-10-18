@@ -1,4 +1,4 @@
-### SALVE MEU PARCEIRO(A), EU SOU O VINICIUS ✌🏽😋
+### OLÁ, EU SOU O VINICIUS ✌🏽😋
 
 - 🧑🏽‍💻 I'm currently working as a back-end developer
 - 🐍 I'm learning python
