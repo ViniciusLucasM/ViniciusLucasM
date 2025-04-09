@@ -12,14 +12,7 @@
 - Azure  
 - Postman  
 - Git, GitHub Actions  
-- Um pouquinho de frontend quando bate a necessidade 😅  
-
-🚀 Sempre buscando aprender mais, compartilhar conhecimento e crescer na jornada dev!
-
-📫 Como falar comigo:
-- [LinkedIn](https://www.linkedin.com/in/viniciuusmesquita/)
-- [E-mail](mailto:viniciuuslcs@gmail.com)
-- Aqui mesmo no GitHub, só abrir uma issue ou mandar um salve!
+- Um pouquinho de frontend quando bate a necessidade 😅
 
 </td>
     <td>
@@ -29,6 +22,13 @@
 </td>
   </tr>
 </table>
+
+🚀 Sempre buscando aprender mais, compartilhar conhecimento e crescer na jornada dev!
+
+📫 Como falar comigo:
+- [LinkedIn](https://www.linkedin.com/in/viniciuusmesquita/)
+- [E-mail](mailto:viniciuuslcs@gmail.com)
+- Aqui mesmo no GitHub, só abrir uma issue ou mandar um salve!
 
 ---
 
