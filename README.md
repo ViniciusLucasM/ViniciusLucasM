@@ -2,8 +2,6 @@
 
 <h4 align="center">🎯 .NET dev hooked on tech, FPS games, and solid series to chill with.</h4>
 
----
-
 ### 👨‍💻 About Me
 
 <table>
@@ -23,7 +21,6 @@
   </tr>
 </table>
 
----
 
 ## 📫 How to reach me:
 
@@ -32,13 +29,7 @@
 [<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="35" height="35" alt="Discord" title="viniciuus.dev#0001" />](#)
 
 
-
-
-
-
----
-
-### 🛠 Language and tools
+## 🛠 Language and tools
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" />
@@ -53,9 +44,8 @@
   <img src="https://skillicons.dev/icons?i=visualstudio" height="40" />
 </div>
 
----
 
-### 🔥 My Stats:
+## 🔥 My Stats:
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ViniciusLucasM&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="209" />
