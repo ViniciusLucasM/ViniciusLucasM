@@ -26,7 +26,8 @@
 
 [<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="35" height="35" alt="LinkedIn" />](https://www.linkedin.com/in/viniciuusmesquita/)
 [<img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" width="35" height="35" alt="Email" />](mailto:viniciuuslcs@gmail.com)
-[<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="35" height="35" alt="Discord" title="viniciuus.dev#0001" />](#)
+[<img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="35" height="35" alt="Discord" title="viniciuus.dev#0001" />](https://discord.com/users/codzila)
+
 
 
 ## 🛠 Language and tools
