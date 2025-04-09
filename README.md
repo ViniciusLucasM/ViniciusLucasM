@@ -1,33 +1,46 @@
-### OLÁ, EU SOU O VINICIUS ✌🏽😋
+## Hey there, I'm Vinicius 👋
 
-- 🧑🏽‍💻 I'm currently working as a back-end developer
-- 🐍 I'm learning python
- 
- <div>
-  <a href="https://github.com/rafaballerini">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ViniciusLucasM&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusLucasM&layout=compact&langs_count=7&theme=radical"/>
-</div>
-  
-<div style="display: inline_block"><br>
-  <img align="center" alt="Vini-Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
-  <img align="center" alt="Vini-Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
-  <img align="center" alt="Vini-Bash" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg">
-  <img align="center" alt="Vini-Nginx" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg">
-  <img align="center" alt="Vini-ssh" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/ssh/ssh-original-wordmark.svg">
-  <img align="center" alt="Vini-Linux" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg">
-  <img align="right" alt="Vini-Gif" height="150" width="150" src="https://cdn.discordapp.com/attachments/693318483471237201/874672819131265064/vini.gif">
-</div>
-  
-##
+🎯 Desenvolvedor .NET apaixonado por tecnologia, games FPS e boas séries.
 
-<div> 
-  <a href="https://www.instagram.com/viniciuuslcs/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- 	<a href="https://www.twitch.tv/codz1la" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
-  <a href = "mailto:viniciuslucas@edu.unifil.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/viniciuusmesquita/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://open.spotify.com/user/8ul9mznrxdqt2pdrq2j4ow67e?si=76b0adca3f71403e&nd=1" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank"></a>
-  
- ![Snake animation](https://github.com/ViniciusLucasM/ViniciusLucasM/blob/output/github-contribution-grid-snake.svg)
- 
-</div>
+🧠 Atualmente trabalhando com:
+- C#, .NET
+- SQL Server
+- Azure
+- Git, GitHub Actions
+- Um pouquinho de frontend quando bate a necessidade 😅
+
+💬 Gosto de trocar ideia sobre:
+- Código limpo, arquitetura e boas práticas
+- Produtividade dev (e um pouco de saúde mental também 🧘)
+- Games, filmes e documentários 🎮🎬
+
+🚀 Sempre buscando aprender mais, compartilhar conhecimento e crescer na jornada dev!
+
+📫 Como falar comigo:
+- [LinkedIn](https://seu-linkedin-aqui.com)
+- [E-mail](mailto:seuemail@email.com)
+- Aqui mesmo no GitHub, só abrir uma issue ou mandar um salve!
+
+---
+
+### ⚙️ Tecnologias & Ferramentas
+![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/-.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoft-azure&logoColor=white)
+![SQL Server](https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+---
+
+### 🎮 Um pouco mais sobre mim
+
+- 👨‍💻 Programando e tomando café como se não houvesse amanhã
+- 🤓 Amante de um bom código e de boas histórias (filmes e séries ❤️)
+- 😌 Ansiedade e depressão controlada — cuidando da mente e do corpo
+- 💭 Sonhador nato, mas sempre com os pés no chão
+
+---
+
+![Vinicius's GitHub stats](https://github-readme-stats.vercel.app/api?username=ViniciusLucasM&show_icons=true&theme=radical)
+
+<img src="https://media.giphy.com/media/78XCFBGOlS6keY1Bil/giphy.gif" width="300"/>
