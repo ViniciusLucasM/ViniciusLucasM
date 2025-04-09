@@ -9,7 +9,7 @@
     <td>
 
 <ul>
-  <li>🔭 I'm currently working in Fin-X</li>
+  <li>🔭 I'm currently working at <a href="https://finxapp.com.br" target="_blank">Fin-X</a></li>
   <li>🌳 I have experience with web</li>
   <li>📚 Background in Computer Science and currently pursuing a degree in Systems Analysis and Development.</li>
 </ul>
